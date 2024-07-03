@@ -1,5 +1,48 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+
+# Campus Pizza Project
+
+Campus Pizza Project is a web-based application designed to streamline the process of ordering pizzas for students and faculty on campus. It offers a user-friendly interface for placing orders, tracking deliveries, and managing menu items efficiently.
+
+## Features
+
+- **Pizza Ordering**: Easily select and customize pizzas from a menu.
+- **Order Tracking**: Track the status of pizza orders in real-time.
+- **User Authentication**: Secure login and registration for students and staff.
+- **Admin Dashboard**: Manage menu items, orders, and delivery status.
+- **Responsive Design**: Ensures seamless user experience across devices.
+
+## Screenshots
+
+![Screenshot 1](screenshots/homepage.png)
+*Homepage: Overview of Campus Pizza Project showcasing featured pizzas and ordering options.*
+
+![Screenshot 2](screenshots/menu.png)
+*Menu Page: Selection of various pizzas with customization options.*
+
+![Screenshot 3](screenshots/cart.png)
+*Cart Page: Review and finalize pizza orders with checkout options.*
+
+![Screenshot 4](screenshots/admin-dashboard.png)
+*Admin Dashboard: Interface for managing menu items, orders, and deliveries.*
+
+![Screenshot 5](screenshots/menu.png)
+*Menu Page: Selection of various pizzas with customization options.*
+
+![Screenshot 6](screenshots/menu.png)
+*Menu Page: Selection of various pizzas with customization options.*
+
+
+## Getting Started
+
+### Installation
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/your-username/campus-pizza-project.git
+   cd campus-pizza-project
+
 ## Getting Started
 
 First, run the development server:
@@ -15,22 +58,3 @@ bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
