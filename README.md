@@ -10,44 +10,7 @@ Campus Pizza Project is a web-based application designed to streamline the proce
 - **Admin Dashboard**: Manage menu items, orders, and delivery status.
 - **Responsive Design**: Ensures seamless user experience across devices.
 
-## Screenshots
 
-![Screenshot 1](ss1.JPG)
-*Homepage: First pop up of our web based application ...Showing Navbar and Homepage .*
-
-![Screenshot 2](ss2.JPG)
-*section where we can add new pizza and the pizza which are shown can be ordered by user.*
-
-![Screenshot 3](ss3.JPG)
-*Added Pizza which were added by me during testing.*
-
-![Screenshot 4](ss4.JPG)
-*Footer of our application where the address of our restaurants are shown with timing.*
-
-![Screenshot 5](ss5.jpg)
-*After Clicking on the Pizza, user would choose of which size pizza he/she wants.*
-
-![Screenshot 6](ss6.JPG)
-*We can choose additional ingredients on the basis of that price would increase.*
-
-![Screenshot 7](ss7.JPG)
-*As the User click on Add to Cart the cart count will increase immediatly.*
-
-![Screenshot 8](ss8.JPG)
-*Here We can see the name of our pizza, price , quantity etc.*
-
-![Screenshot 9](ss9.JPG)
-*Payment Page: we can choose here our method of payment.*
-*Note : Online payment option hasnot been added yet.*
-
-![Screenshot 10](ss10.JPG)
-*By filling out this form , user can order the pizza.*
-
-![Screenshot 11](ss11.JPG)
-*Admin Login page - where Admin can login by using correct credentials.*
-
-![Screenshot 12](ss12.JPG)
-*After Admin Login , he/she can see all the Ordered pizza and can chage the status, edit or delete pizza.*
 
 ## Getting Started
 
